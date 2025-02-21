@@ -17,68 +17,68 @@ Real-World Applications: Business-oriented solutions or personal interest topics
 ## My Learning Journey
 <!-- 1️⃣ Foundations (Beginner)
 🔹 Basic Statistics & Probability
-
 Descriptive statistics (mean, median, mode, variance, standard deviation)
 Probability distributions (normal, binomial, Poisson)
 Central Limit Theorem
 Hypothesis testing & p-values
-🔹 Data Analysis & Visualization
 
+🔹 Data Analysis & Visualization
 Excel basics (pivot tables, VLOOKUP, IF statements)
 SQL basics (SELECT, WHERE, GROUP BY, JOINS)
 Python basics (Pandas, Matplotlib, Seaborn)
 R basics (dplyr, ggplot2)
 Dashboarding (Tableau, Power BI)
-🔹 Business Analytics & Decision-Making
 
+🔹 Business Analytics & Decision-Making
 Business Metrics (KPIs, ROI, CLV)
 A/B Testing Fundamentals
 Time Series Analysis Basics
 Intro to Forecasting
 2️⃣ Intermediate Topics
-🔹 Machine Learning & Predictive Modeling
 
+🔹 Machine Learning & Predictive Modeling
 Regression (Linear & Logistic)
 Decision Trees & Random Forests
 Feature Engineering
 Model Evaluation (MSE, R², ROC Curve)
 Clustering (K-Means, Hierarchical, DBSCAN)
-🔹 Optimization & Operations Research
 
+🔹 Optimization & Operations Research
 Linear Programming (Simplex Method)
 Supply Chain Optimization
 Markov Chains & Monte Carlo Simulation
 Dynamic Pricing Strategies
-🔹 Data Engineering & Processing
 
+🔹 Data Engineering & Processing
 SQL Advanced Queries (CTE, Window Functions)
 Data Cleaning & Transformation (ETL, Pandas, NumPy)
 API Data Extraction & Web Scraping
 Cloud Data Storage (BigQuery, Snowflake)
-🔹 Advanced Business Analytics
 
+🔹 Advanced Business Analytics
 Advanced A/B Testing (Multi-Armed Bandit)
 Survival Analysis (Customer Retention Modeling)
 Risk Analysis & Fraud Detection
 Text Analytics & Sentiment Analysis (NLP Basics)
+
 3️⃣ Advanced Topics
 🔹 Deep Learning & AI for Business
-
 Neural Networks (TensorFlow, PyTorch)
 Natural Language Processing (Transformers, BERT)
 Recommendation Systems (Collaborative Filtering, Matrix Factorization)
 Reinforcement Learning for Decision-Making
-🔹 Big Data & Scalable Analytics
 
+🔹 Big Data & Scalable Analytics
 Distributed Computing (Spark, Hadoop)
 Streaming Data Analysis (Kafka, AWS Kinesis)
 Real-Time Decision Analytics
-🔹 Advanced Optimization & Simulation
 
+🔹 Advanced Optimization & Simulation
 Game Theory & Decision Trees
 Bayesian Statistics for Decision-Making
 Advanced Forecasting Models (ARIMA, Prophet, LSTMs)
 Prescriptive Analytics & Optimization
+
 4️⃣ Specialized Topics (Optional Based on Interest)
 📌 Finance & Risk Analytics – Portfolio Optimization, Credit Risk Modeling, Algorithmic Trading
 📌 Healthcare Analytics – Epidemiology, Patient Outcome Predictions
@@ -114,22 +114,12 @@ Feature Engineering & Model Tuning.
 A/B Testing & Experimentation.
 Time Series & Forecasting.
 Optimization & Business Analytics.
-
+-
 Relevant certificates (Google Data Analytics, AWS, IBM, etc.).
 Advanced courses completed (ML, deep learning, analytics). -->
 
 
-
-
-
-
-
-
 ## Contact
-<!-- A downloadable resume (PDF)
-A contact form or email address
-Links to LinkedIn, GitHub, or Kaggle -->
-
 LinkedIn: [Aileen Li](https://www.linkedin.com/in/aileen-li-public/)
 
 E-mail: [aql254@utexas.edu](mailto:aql254@utexas.edu)
