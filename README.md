@@ -1,7 +1,7 @@
 # Welcome to my Data Science Portfolio
 This portfolio showcases my work in data science and analytics, reflecting both academic learning and independent exploration. It features projects I've worked on, technical concepts I’ve studied, and certifications I’ve earned in order to continue my growth in these fields.
 
-## Projects & Case Studies
+## Projects
 <! --sort by types of projects
 End-to-End Projects: Demonstrate the full pipeline from data collection to model deployment.
 Data Cleaning & Exploration: Showcases how you handle messy data.
