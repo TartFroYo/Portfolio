@@ -63,4 +63,4 @@ Links to LinkedIn, GitHub, or Kaggle -->
 
 LinkedIn: [Aileen Li](https://www.linkedin.com/in/aileen-li-public/)
 
-E-mail: [aql254@utexas.edu](mailleto:aql254@utexas.edu)
+E-mail: [aql254@utexas.edu](mailto:aql254@utexas.edu)
