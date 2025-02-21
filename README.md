@@ -60,3 +60,6 @@ Advanced courses completed (ML, deep learning, analytics). -->
 <!-- A downloadable resume (PDF)
 A contact form or email address
 Links to LinkedIn, GitHub, or Kaggle -->
+
+LinkedIn: [Aileen Li](https://www.linkedin.com/in/aileen-li-public/)
+E-mail: [aql254@utexas.edu](aql254@utexas.edu)
