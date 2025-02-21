@@ -1,5 +1,6 @@
 # Welcome to my Data Science Portfolio
-This portfolio showcases my work in data science and analytics, reflecting both academic learning and independent exploration. It features projects I've worked on, technical concepts I’ve studied, and certifications I’ve earned in order to continue my growth in this field.
+This portfolio showcases my work in data science and analytics, reflecting both academic learning and independent exploration. 
+It features projects I've worked on, technical concepts I’ve studied, and certifications I’ve earned in order to continue my growth in this field.
 
 ## Projects
 <!--sort by types of projects
@@ -7,7 +8,10 @@ End-to-End Projects: Demonstrate the full pipeline from data collection to model
 Data Cleaning & Exploration: Showcases how you handle messy data.
 Machine Learning Models: Supervised/unsupervised learning, feature engineering, and model evaluation.
 Data Visualization & Storytelling: Effective visualizations to communicate findings.
-Real-World Applications: Business-oriented solutions or personal interest topics. -->
+Real-World Applications: Business-oriented solutions or personal interest topics. 
+
+Recreate the air pollution one
+Describe the gene pipeline -->
 
 ## Micro Projects
 
