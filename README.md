@@ -9,9 +9,9 @@ Machine Learning Models: Supervised/unsupervised learning, feature engineering, 
 Data Visualization & Storytelling: Effective visualizations to communicate findings.
 Real-World Applications: Business-oriented solutions or personal interest topics. -->
 
-### Micro Projects
+## Micro Projects
 
-#### Challenges
+### + Challenges
 <!-- HR, LC coding problems -->
 
 ## My Learning Journey
