@@ -17,25 +17,25 @@ Real-World Applications: Business-oriented solutions or personal interest topics
 ## My Learning Journey
 
 ## Technical Skills & Tools
-**Programming & Scripting** 
+**Programming & Scripting** \
 🟢 Python | SQL | R
 
-**Data Analysis & Visualization** 
+**Data Analysis & Visualization** \
 📊 Pandas | NumPy | Matplotlib | Seaborn | (Power BI) | Tableau | (Excel)
 
-**Machine Learning & Statistics** 
+**Machine Learning & Statistics** \
 📈 Statistical Modeling | Predictive Analytics | Hypothesis Testing | Decision Trees | Feature Engineering | Time Series Analysis
 
-**Data Processing & Engineering** 
+**Data Processing & Engineering** \
 🛠️ ETL | Data Cleaning & Wrangling | (Web Scraping) | Data Pipelines
 
-**Databases & Cloud Technologies** 
+**Databases & Cloud Technologies** \
 💾 SQL Server | MySQL | NoSQL | (Snowflake) | GCP 
 
-**Business & Analytics Tools** 
+**Business & Analytics Tools** \
 📝 Jupyter Notebook | Git & GitHub | (Qualtrics)
 
-**Soft Skills** 
+**Soft Skills** \
 🗣️ Data Storytelling | Communicating Technical Concepts | Problem-Solving | Cross-Functional Collaboration
 
 ## Certifications
