@@ -31,7 +31,7 @@ This experience strengthened my skills in ETL processes, data engineering princi
 
 ## Micro Projects
 
-### + Challenges
++ ### Challenges
 <!-- HR, LC coding problems -->
 
 ## My Learning Journey
