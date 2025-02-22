@@ -45,7 +45,7 @@ This project analyzes data on near-Earth objects (NEOs) to predict which may pos
 ## Micro Projects
 
 + ### Challenges
-<!-- HR, LC coding problems -->
+[HackerRank](link)
 
 ## My Learning Journey
 <!-- 1️⃣ Foundations (Beginner)
