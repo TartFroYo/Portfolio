@@ -18,21 +18,19 @@ Recreate the air pollution one
 Describe the gene pipeline -->
 
 [Predicting Air Pollution Hotspots Using Machine Learning](link) :
-This project is a reimagined version of a previous academic project where me and my partner originally developed 4 ML models in R to [predict air pollution levels across the U.S](https://github.com/TartFroYo/Predicting-Ambient-Air-Pollution-PM2.5-Across-the-Contiguous-U.S/blob/main/README.md). The initial project focused on finding the most accurate prediction model out of four of our choosing based on RMSE and interpret it.
-
-In this updated version, I have rebuilt the project in Python, leveraging new datasets and machine learning techniques to improve predictive accuracy and real-world applicability. The goal is to create a model that can predict high-risk pollution zones, helping policymakers and urban planners make informed decisions about air quality management.
+This project is a reimagined version of a previous academic project where me and my partner originally developed 4 ML models in R to [predict air pollution levels across the U.S](https://github.com/TartFroYo/Predicting-Ambient-Air-Pollution-PM2.5-Across-the-Contiguous-U.S/blob/main/README.md). 
+The initial project focused on finding the most accurate prediction model out of four of our choosing based on RMSE and interpret it. In this updated version, I have rebuilt the project in Python, leveraging new datasets and machine learning techniques to improve predictive accuracy and real-world applicability. 
+The goal is to create a model that can predict high-risk pollution zones, helping policymakers and urban planners make informed decisions about air quality management.
 
 [Data Pipeline for Processing Raw Gene Data](https://github.com/TartFroYo/Portfolio/blob/main/Data%20Pipeline%20for%20Processing%20Raw%20Gene%20Data) :
-As part of a research initiative, I designed and implemented a data pipeline to process raw gene sequence data, transforming it into a structured format attached with the necessary info suitable for analysis. This involved data ingestion, cleaning, transformation, and storage to facilitate downstream gene expression analysis.
-
-The pipeline was built using [], and it automated the extraction and standardization of large genomic datasets. Despite not having access to the code, I can discuss the design choices, challenges, and impact of the project.
+As part of a research initiative, I designed and implemented a data pipeline to process raw gene sequence data, transforming it into a structured format attached with the necessary info suitable for analysis. This involved data ingestion, cleaning, transformation, and storage to facilitate downstream gene expression analysis. 
+The pipeline was built using [R], and it automated the extraction and standardization of large genomic datasets. Despite not having access to the code, I can discuss the design choices, challenges, and impact of the project.
 This experience strengthened my skills in ETL processes, data engineering principles, and optimizing workflows for large-scale biological data.
 
 [Predicting Alzheimer's Disease in Patients](https://github.com/kristenlowe/predicting-alzheimers-diagnosis) :
 This project applies machine learning techniques to predict Alzheimer's disease using the Alzheimer's Disease Dataset from Kaggle. 
 The analysis begins with exploratory data analysis, including feature engineering, one-hot encoding, and visualizing trends in the data. 
 Several models are implemented, including K-Nearest Neighbors (KNN), logistic regression, lasso and ridge regression, stepwise selection, and tree-based models such as classification trees, random forests, bagging, and boosting. 
-
 Model performance was assessed not only based on overall accuracy but also by evaluating sensitivity and specificity to ensure a balanced assessment of false positives and false negatives. 
 Random forest emerged as the most effective model, achieving approximately 95% prediction accuracy. 
 This project demonstrates the impact of machine learning in healthcare analytics and the importance of carefully selecting and evaluating models for medical diagnosis.
