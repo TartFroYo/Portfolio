@@ -43,71 +43,55 @@ This project analyzes data on near-Earth objects (NEOs) to predict which may pos
 ## Micro Projects
 
 ### Challenges
-[HackerRank](link)
+[SQL](LINK) - This repo contains challenges I solved in SQL.
+[Python](LINK) - This repo contains challenges I solved in Python.
+[R](LINK) - This repo contains challenges I solved in R.
+
+<!-- Yes! Here are some great platforms to practice and improve your R coding skills:
+General Coding & Algorithm Practice
+HackerRank – Offers R challenges, especially in statistics and data science.
+LeetCode – Primarily for Python, SQL, and general algorithms, but some problems can be solved in R.
+Codewars – Has R programming challenges at various difficulty levels.
+Data Science & Statistics in R
+DataCamp – Interactive courses in R for data analysis, machine learning, and statistics.
+Kaggle – Free R courses, datasets, and coding competitions.
+TidyTuesday – Weekly R challenges using real-world datasets.
+R-exercises – Tons of exercises categorized by topic (e.g., data wrangling, visualization, machine learning).
+Coursera – Offers R courses from Johns Hopkins, Duke, and others.
+Machine Learning & Advanced Topics
+The Riddler (FiveThirtyEight) – Not R-specific but great math and probability problems you can solve using R.
+Project Euler – Algorithmic and mathematical problems solvable in R.-->
 
 ## My Learning Journey
 <!-- 1️⃣ Foundations (Beginner)
-🔹 Basic Statistics & Probability
-Descriptive statistics (mean, median, mode, variance, standard deviation)
-Probability distributions (normal, binomial, Poisson)
-Central Limit Theorem
-Hypothesis testing & p-values
+🔹 Basic Statistics & Probability: Descriptive statistics (mean, median, mode, variance, standard deviation), Probability distributions (normal, binomial, Poisson),
+Central Limit Theorem, Hypothesis testing & p-values
 
-🔹 Data Analysis & Visualization
-Excel basics (pivot tables, VLOOKUP, IF statements)
-SQL basics (SELECT, WHERE, GROUP BY, JOINS)
-Python basics (Pandas, Matplotlib, Seaborn)
-R basics (dplyr, ggplot2)
-Dashboarding (Tableau, Power BI)
+🔹 Data Analysis & Visualization: Excel basics (pivot tables, VLOOKUP, IF statements), SQL basics (SELECT, WHERE, GROUP BY, JOINS),
+Python basics (Pandas, Matplotlib, Seaborn), R basics (dplyr, ggplot2), Dashboarding (Tableau, Power BI)
 
-🔹 Business Analytics & Decision-Making
-Business Metrics (KPIs, ROI, CLV)
-A/B Testing Fundamentals
-Time Series Analysis Basics
-Intro to Forecasting
+🔹 Business Analytics & Decision-Making: Business Metrics (KPIs, ROI, CLV), A/B Testing Fundamentals, Time Series Analysis Basics, Intro to Forecasting
+
 2️⃣ Intermediate Topics
+🔹 Machine Learning & Predictive Modeling: Regression (Linear & Logistic), Decision Trees & Random Forests, Feature Engineering,
+Model Evaluation (MSE, R², ROC Curve), Clustering (K-Means, Hierarchical, DBSCAN)
 
-🔹 Machine Learning & Predictive Modeling
-Regression (Linear & Logistic)
-Decision Trees & Random Forests
-Feature Engineering
-Model Evaluation (MSE, R², ROC Curve)
-Clustering (K-Means, Hierarchical, DBSCAN)
-
-🔹 Optimization & Operations Research
-Linear Programming (Simplex Method)
-Supply Chain Optimization
-Markov Chains & Monte Carlo Simulation
+🔹 Optimization & Operations Research: Linear Programming (Simplex Method), Supply Chain Optimization, Markov Chains & Monte Carlo Simulation,
 Dynamic Pricing Strategies
 
-🔹 Data Engineering & Processing
-SQL Advanced Queries (CTE, Window Functions)
-Data Cleaning & Transformation (ETL, Pandas, NumPy)
-API Data Extraction & Web Scraping
-Cloud Data Storage (BigQuery, Snowflake)
+🔹 Data Engineering & Processing: SQL Advanced Queries (CTE, Window Functions), Data Cleaning & Transformation (ETL, Pandas, NumPy)
+API Data Extraction & Web Scraping, Cloud Data Storage (BigQuery, Snowflake)
 
-🔹 Advanced Business Analytics
-Advanced A/B Testing (Multi-Armed Bandit)
-Survival Analysis (Customer Retention Modeling)
-Risk Analysis & Fraud Detection
-Text Analytics & Sentiment Analysis (NLP Basics)
+🔹 Advanced Business Analytics: Advanced A/B Testing (Multi-Armed Bandit), Survival Analysis (Customer Retention Modeling), 
+Risk Analysis & Fraud Detection, Text Analytics & Sentiment Analysis (NLP Basics)
 
 3️⃣ Advanced Topics
-🔹 Deep Learning & AI for Business
-Neural Networks (TensorFlow, PyTorch)
-Natural Language Processing (Transformers, BERT)
-Recommendation Systems (Collaborative Filtering, Matrix Factorization)
-Reinforcement Learning for Decision-Making
+🔹 Deep Learning & AI for Business: Neural Networks (TensorFlow, PyTorch), Natural Language Processing (Transformers, BERT), 
+Recommendation Systems (Collaborative Filtering, Matrix Factorization), Reinforcement Learning for Decision-Making
 
-🔹 Big Data & Scalable Analytics
-Distributed Computing (Spark, Hadoop)
-Streaming Data Analysis (Kafka, AWS Kinesis)
-Real-Time Decision Analytics
+🔹 Big Data & Scalable Analytics: Distributed Computing (Spark, Hadoop), Streaming Data Analysis (Kafka, AWS Kinesis), Real-Time Decision Analytics
 
-🔹 Advanced Optimization & Simulation
-Game Theory & Decision Trees
-Bayesian Statistics for Decision-Making
-Advanced Forecasting Models (ARIMA, Prophet, LSTMs)
+🔹 Advanced Optimization & Simulation: Game Theory & Decision Trees, Bayesian Statistics for Decision-Making, Advanced Forecasting Models (ARIMA, Prophet, LSTMs),
 Prescriptive Analytics & Optimization
 
 4️⃣ Specialized Topics (Optional Based on Interest)
