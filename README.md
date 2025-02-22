@@ -18,6 +18,12 @@ This project is a reimagined version of a previous academic project where me and
 
 In this updated version, I have rebuilt the project in Python, leveraging new datasets and machine learning techniques to improve predictive accuracy and real-world applicability. The goal is to create a model that can predict high-risk pollution zones, helping policymakers and urban planners make informed decisions about air quality management.
 
+### [Data Pipeline for Processing Raw Gene Data](https://github.com/TartFroYo/Portfolio/blob/main/Data%20Pipeline%20for%20Processing%20Raw%20Gene%20Data)
+As part of a research initiative, I designed and implemented a data pipeline to process raw gene sequence data, transforming it into a structured format attached with the necessary info suitable for analysis. This involved data ingestion, cleaning, transformation, and storage to facilitate downstream gene expression analysis.
+
+The pipeline was built using [], and it automated the extraction and standardization of large genomic datasets. Despite not having access to the code, I can discuss the design choices, challenges, and impact of the project.
+This experience strengthened my skills in ETL processes, data engineering principles, and optimizing workflows for large-scale biological data.
+
 
 ## Micro Projects
 
