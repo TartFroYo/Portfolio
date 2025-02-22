@@ -2,9 +2,7 @@
 This portfolio showcases my work in data science and analytics, reflecting both academic learning and independent exploration. 
 It features projects I've worked on, technical concepts I’ve studied, and certifications I’ve earned in order to continue my growth in this field.
 
-+ **LinkedIn:** [Aileen Li](https://www.linkedin.com/in/aileen-li-public/)
-
-+ **E-mail:** [aql254@utexas.edu](mailto:aql254@utexas.edu)
++ **LinkedIn:** [Aileen Li](https://www.linkedin.com/in/aileen-li-public/) + **E-mail:** [aql254@utexas.edu](mailto:aql254@utexas.edu)
 
 ## Projects
 <!--sort by types of projects
