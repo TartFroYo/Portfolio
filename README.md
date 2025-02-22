@@ -44,7 +44,9 @@ This project analyzes data on near-Earth objects (NEOs) to predict which may pos
 
 ### Challenges
 [SQL](LINK) - This repo contains challenges I solved in SQL.
+
 [Python](LINK) - This repo contains challenges I solved in Python.
+
 [R](LINK) - This repo contains challenges I solved in R.
 
 <!-- Yes! Here are some great platforms to practice and improve your R coding skills:
