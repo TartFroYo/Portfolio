@@ -28,6 +28,16 @@ As part of a research initiative, I designed and implemented a data pipeline to 
 The pipeline was built using [], and it automated the extraction and standardization of large genomic datasets. Despite not having access to the code, I can discuss the design choices, challenges, and impact of the project.
 This experience strengthened my skills in ETL processes, data engineering principles, and optimizing workflows for large-scale biological data.
 
+### [Predicting Alzheimer's Disease in Patients](https://github.com/kristenlowe/predicting-alzheimers-diagnosis)
+This project applies machine learning techniques to predict Alzheimer's disease using the Alzheimer's Disease Dataset from Kaggle. 
+The analysis begins with exploratory data analysis, including feature engineering, one-hot encoding, and visualizing trends in the data. 
+Several models are implemented, including K-Nearest Neighbors (KNN), logistic regression, lasso and ridge regression, stepwise selection, and tree-based models such as classification trees, random forests, bagging, and boosting. 
+
+Model performance was assessed not only based on overall accuracy but also by evaluating sensitivity and specificity to ensure a balanced assessment of false positives and false negatives. 
+Random forest emerged as the most effective model, achieving approximately 95% prediction accuracy. 
+This project demonstrates the impact of machine learning in healthcare analytics and the importance of carefully selecting and evaluating models for medical diagnosis.
+
+### [Predicting Hazardous Near-Earth Objects ]()
 
 ## Micro Projects
 
