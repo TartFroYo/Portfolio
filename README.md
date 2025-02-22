@@ -2,6 +2,10 @@
 This portfolio showcases my work in data science and analytics, reflecting both academic learning and independent exploration. 
 It features projects I've worked on, technical concepts I’ve studied, and certifications I’ve earned in order to continue my growth in this field.
 
++ **LinkedIn:** [Aileen Li](https://www.linkedin.com/in/aileen-li-public/)
+
++ **E-mail:** [aql254@utexas.edu](mailto:aql254@utexas.edu)
+
 ## Projects
 <!--sort by types of projects
 End-to-End Projects: Demonstrate the full pipeline from data collection to model deployment.
@@ -134,8 +138,3 @@ Optimization & Business Analytics.
 Relevant certificates (Google Data Analytics, AWS, IBM, etc.).
 Advanced courses completed (ML, deep learning, analytics). -->
 
-
-## Contact
-LinkedIn: [Aileen Li](https://www.linkedin.com/in/aileen-li-public/)
-
-E-mail: [aql254@utexas.edu](mailto:aql254@utexas.edu)
