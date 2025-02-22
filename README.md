@@ -18,7 +18,7 @@ Recreate the air pollution one
 Describe the gene pipeline -->
 
 ### [Predicting Air Pollution Hotspots Using Machine Learning](link) 
-This project is a reimagined version of a previous academic project where me and my partner originally developed 4 ML models in R to predict air pollution levels across the U.S ([Click Here](https://github.com/TartFroYo/Predicting-Ambient-Air-Pollution-PM2.5-Across-the-Contiguous-U.S/blob/main/README.md)). The initial project focused on finding the most accurate prediction model out of four of our choosing based on RMSE and interpret it.
+This project is a reimagined version of a previous academic project where me and my partner originally developed 4 ML models in R to ([predict air pollution levels across the U.S](https://github.com/TartFroYo/Predicting-Ambient-Air-Pollution-PM2.5-Across-the-Contiguous-U.S/blob/main/README.md)). The initial project focused on finding the most accurate prediction model out of four of our choosing based on RMSE and interpret it.
 
 In this updated version, I have rebuilt the project in Python, leveraging new datasets and machine learning techniques to improve predictive accuracy and real-world applicability. The goal is to create a model that can predict high-risk pollution zones, helping policymakers and urban planners make informed decisions about air quality management.
 
