@@ -1,5 +1,7 @@
 # Data Pipeline for Processing Raw Gene Data
 
+!!! Need to add diagram and change file type!!!
+
 ## Project Overview
 During my research, I contributed to building a data pipeline designed to process raw gene sequence data efficiently. The project aimed to streamline the extraction, transformation, and analysis of genomic data, ensuring high-quality inputs for downstream bioinformatics research.
 This pipeline was essential because genomic datasets are often large, complex, and require extensive preprocessing before meaningful analysis can take place. By automating these steps, the pipeline significantly reduced manual data handling, minimized errors, and improved processing speed.
