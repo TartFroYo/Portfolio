@@ -37,7 +37,10 @@ Model performance was assessed not only based on overall accuracy but also by ev
 Random forest emerged as the most effective model, achieving approximately 95% prediction accuracy. 
 This project demonstrates the impact of machine learning in healthcare analytics and the importance of carefully selecting and evaluating models for medical diagnosis.
 
-### [Predicting Hazardous Near-Earth Objects ]()
+### [Predicting Hazardous Near-Earth Objects ](https://github.com/TartFroYo/Predicting-Hazardous-Near-Earth-Objects/tree/main)
+need to add description in this repo
+
+This project analyzes data on near-Earth objects (NEOs) to predict which may pose a potential threat. Using Python, we performed exploratory data analysis (EDA) to identify key trends and features, then applied machine learning models to classify NEOs based on their hazard potential. Visualizations and statistical insights helped refine predictions and improve model accuracy.
 
 ## Micro Projects
 
