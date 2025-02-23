@@ -101,26 +101,22 @@ Prescriptive Analytics & Optimization
 📌 Cybersecurity & Fraud Detection – Anomaly Detection, Behavioral Analysis -->
 
 ## Technical Skills & Tools
-**Programming & Scripting** \
-🟢 Python | SQL | R
+<!--**Programming & Scripting** 🟢 Python | SQL | R
+**Data Analysis & Visualization** 📊 Pandas | NumPy | Matplotlib | Seaborn | (Power BI) | Tableau | (Excel)
+**Machine Learning & Statistics** 📈 Statistical Modeling | Predictive Analytics | Hypothesis Testing | Decision Trees | Feature Engineering | Time Series Analysis
+**Data Processing & Engineering** 🛠️ ETL | Data Cleaning & Wrangling | (Web Scraping) | Data Pipelines
+**Databases & Cloud Technologies** 💾 SQL Server | MySQL | NoSQL | (Snowflake) | GCP 
+**Business & Analytics Tools** 📝 Jupyter Notebook | Git & GitHub | (Qualtrics)
+**Soft Skills** 🗣️ Data Storytelling | Communicating Technical Concepts | Problem-Solving | Cross-Functional Collaboration -->
 
-**Data Analysis & Visualization** \
-📊 Pandas | NumPy | Matplotlib | Seaborn | (Power BI) | Tableau | (Excel)
+**Methodologies:**
+Machine Learning, Predictive Analytics, Time Series Analysis, Statistical Modeling, Hypothesis Testing, Feature Engineering, Decision Trees, A/B Testing, Data Wrangling, ETL
 
-**Machine Learning & Statistics** \
-📈 Statistical Modeling | Predictive Analytics | Hypothesis Testing | Decision Trees | Feature Engineering | Time Series Analysis
+**Languages:**
+Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), R (Dplyr, Tidyr, Caret, ggplot2), SQL
 
-**Data Processing & Engineering** \
-🛠️ ETL | Data Cleaning & Wrangling | (Web Scraping) | Data Pipelines
-
-**Databases & Cloud Technologies** \
-💾 SQL Server | MySQL | NoSQL | (Snowflake) | GCP 
-
-**Business & Analytics Tools** \
-📝 Jupyter Notebook | Git & GitHub | (Qualtrics)
-
-**Soft Skills** \
-🗣️ Data Storytelling | Communicating Technical Concepts | Problem-Solving | Cross-Functional Collaboration
+**Tools:**
+MySQL, SQL Server, NoSQL, GCP, Tableau, Jupyter Notebook, Git & GitHub, Excel
 
 ## Certifications
 <!--Statistical Methods & Probability.
