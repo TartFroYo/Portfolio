@@ -41,11 +41,11 @@ This project analyzes data on near-Earth objects (NEOs) to predict which may pos
 ## Micro Projects
 
 ### Challenges
-[SQL](LINK) - This repo contains challenges I solved in SQL.
+[SQL](LINK) - This repo contains challenges I solved in SQL. DNE
 
-[Python](LINK) - This repo contains challenges I solved in Python.
+[Python](LINK) - This repo contains challenges I solved in Python. DNE
 
-[R](LINK) - This repo contains challenges I solved in R.
+[R](LINK) - This repo contains challenges I solved in R. DNE
 
 <!-- Yes! Here are some great platforms to practice and improve your R coding skills:
 General Coding & Algorithm Practice
