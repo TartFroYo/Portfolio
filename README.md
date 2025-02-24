@@ -17,7 +17,7 @@ Describe the gene pipeline -->
 
 ### Predictive Modeling
 
-#### Regression
++ **Regression**
 
 [Predicting Air Pollution Hotspots Using Machine Learning](link) :
 This project is a reimagined version of a previous academic project where me and my partner originally developed 4 ML models in R to [predict air pollution levels across the U.S](https://github.com/TartFroYo/Predicting-Ambient-Air-Pollution-PM2.5-Across-the-Contiguous-U.S/blob/main/README.md). 
