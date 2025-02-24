@@ -15,15 +15,16 @@ Real-World Applications: Business-oriented solutions or personal interest topics
 Recreate the air pollution one
 Describe the gene pipeline -->
 
+### Predictive Modeling
+
+**Regression**
+
 [Predicting Air Pollution Hotspots Using Machine Learning](link) :
 This project is a reimagined version of a previous academic project where me and my partner originally developed 4 ML models in R to [predict air pollution levels across the U.S](https://github.com/TartFroYo/Predicting-Ambient-Air-Pollution-PM2.5-Across-the-Contiguous-U.S/blob/main/README.md). 
 The initial project focused on finding the most accurate prediction model out of four of our choosing based on RMSE and interpret it. In this updated version, I have rebuilt the project in Python, leveraging new datasets and machine learning techniques to improve predictive accuracy and real-world applicability. 
 The goal is to create a model that can predict high-risk pollution zones, helping policymakers and urban planners make informed decisions about air quality management.
 
-[Data Pipeline for Processing Raw Gene Data](https://github.com/TartFroYo/Portfolio/blob/main/Data%20Pipeline%20for%20Processing%20Raw%20Gene%20Data) :
-As part of a research initiative, I designed and implemented a data pipeline to process raw gene sequence data, transforming it into a structured format attached with the necessary info suitable for analysis. This involved data ingestion, cleaning, transformation, and storage to facilitate downstream gene expression analysis. 
-The pipeline was built using [R], and it automated the extraction and standardization of large genomic datasets. Despite not having access to the code, I can discuss the design choices, challenges, and impact of the project.
-This experience strengthened my skills in ETL processes, data engineering principles, and optimizing workflows for large-scale biological data.
+**Classification**
 
 [Predicting Alzheimer's Disease in Patients](https://github.com/kristenlowe/predicting-alzheimers-diagnosis) :
 This project applies machine learning techniques to predict Alzheimer's disease using the Alzheimer's Disease Dataset from Kaggle. 
@@ -37,6 +38,61 @@ This project demonstrates the impact of machine learning in healthcare analytics
 need to add description in this repo
 
 This project analyzes data on near-Earth objects (NEOs) to predict which may pose a potential threat. Using Python, we performed exploratory data analysis (EDA) to identify key trends and features, then applied machine learning models to classify NEOs based on their hazard potential. Visualizations and statistical insights helped refine predictions and improve model accuracy.
+
+**Time Series Forecasting**
+
+### Natural Language Processing
+
+***Sentiment Analysis (e.g., product reviews, social media sentiment)
+Text Classification (e.g., news categorization, email spam detection)
+Named Entity Recognition (NER) (e.g., extracting entities from resumes or legal documents)
+Topic Modeling (e.g., analyzing trends in research papers)
+Text Summarization (e.g., summarizing articles or books)**
+
+### Computer Vision
+
+**Image Classification (e.g., identifying plant diseases, facial emotion detection)
+Object Detection (e.g., detecting cars in traffic camera feeds)
+Image Segmentation (e.g., medical imaging analysis)
+OCR (Optical Character Recognition) (e.g., extracting text from scanned documents)**
+
+### Recommender Systems
+
+**Movie/Book/Product Recommendation (e.g., Netflix-style recommendation engine)
+Personalized Content Recommendation (e.g., news or articles)**
+
+### Anomaly Detection
+
+**Fraud Detection (e.g., credit card fraud detection, cybersecurity threats)
+Fault Detection in Manufacturing (e.g., detecting defective products using sensor data)
+Network Intrusion Detection (e.g., identifying unusual traffic in network logs)**
+
+### Data Engineering & Big Data
+
+**Data Pipelines & ETL (e.g., automating data collection, cleaning, and storage)
+Web Scraping (e.g., scraping job listings or real estate data)
+Processing Large Datasets (e.g., using Spark, Dask, or distributed computing)**
+
+[Data Pipeline for Processing Raw Gene Data](https://github.com/TartFroYo/Portfolio/blob/main/Data%20Pipeline%20for%20Processing%20Raw%20Gene%20Data) :
+As part of a research initiative, I designed and implemented a data pipeline to process raw gene sequence data, transforming it into a structured format attached with the necessary info suitable for analysis. This involved data ingestion, cleaning, transformation, and storage to facilitate downstream gene expression analysis. 
+The pipeline was built using [R], and it automated the extraction and standardization of large genomic datasets. Despite not having access to the code, I can discuss the design choices, challenges, and impact of the project.
+This experience strengthened my skills in ETL processes, data engineering principles, and optimizing workflows for large-scale biological data.
+
+### 7. A/B Testing & Experimentation
+
+**Marketing Campaign Analysis (e.g., testing different ad creatives)
+Website UI/UX Experimentation (e.g., analyzing user engagement metrics)**
+
+### Explainable AI & Model Interpretability
+
+**SHAP/LIME for Feature Importance (e.g., understanding why a model makes certain predictions)
+Bias & Fairness Audits (e.g., analyzing bias in hiring models)**
+
+### Business Intelligence & Analytics
+
+**Dashboarding & Visualization (e.g., Power BI/Tableau dashboards for financial trends)
+Customer Segmentation (e.g., clustering customer behavior)
+Churn Prediction (e.g., identifying customers likely to stop using a service)**
 
 ## Micro Projects
 
