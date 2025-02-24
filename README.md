@@ -43,7 +43,7 @@ This project analyzes data on near-Earth objects (NEOs) to predict which may pos
 
 ### Natural Language Processing
 
-***Sentiment Analysis (e.g., product reviews, social media sentiment)
+**Sentiment Analysis (e.g., product reviews, social media sentiment)
 Text Classification (e.g., news categorization, email spam detection)
 Named Entity Recognition (NER) (e.g., extracting entities from resumes or legal documents)
 Topic Modeling (e.g., analyzing trends in research papers)
@@ -97,11 +97,13 @@ Churn Prediction (e.g., identifying customers likely to stop using a service)**
 ## Micro Projects
 
 ### Challenges
-[SQL](LINK) - This repo contains challenges I solved in SQL. DNE
 
-[Python](LINK) - This repo contains challenges I solved in Python. DNE
+Repo of all the code challenges I solved in their respective programming languages. DNE
 
-[R](LINK) - This repo contains challenges I solved in R. DNE
+<p align=center> 
+  <a href="LINK">SQL</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="LINK">Python</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="LINK">R</a> </p>
 
 <!-- Yes! Here are some great platforms to practice and improve your R coding skills:
 General Coding & Algorithm Practice
