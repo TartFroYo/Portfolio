@@ -97,7 +97,7 @@ Churn Prediction (e.g., identifying customers likely to stop using a service)**
 ## Micro Projects
 
 ### Challenges
-Repo of all the code challenges I solved in their respective programming languages: [SQL](LINK) [Python](LINK) [R](LINK) DNE
+Repo of all the code challenges I solved in their respective programming languages: <p align=center> <a href="LINK">SQL</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="LINK">Python</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="LINK">R</a></p>
 
 <!-- Yes! Here are some great platforms to practice and improve your R coding skills:
 General Coding & Algorithm Practice
