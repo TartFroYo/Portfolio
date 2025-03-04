@@ -28,7 +28,7 @@ This project is a reimagined version of a previous academic project where me and
 The initial project focused on finding the most accurate prediction model out of four of our choosing based on RMSE and interpret it. In this updated version, I have rebuilt the project in Python, leveraging new datasets and machine learning techniques to improve predictive accuracy and real-world applicability. 
 The goal is to create a model that can predict high-risk pollution zones, helping policymakers and urban planners make informed decisions about air quality management. -->
 
-[Predicting Ambient Air Pollution Across the U.S](https://github.com/TartFroYo/Predicting-Ambient-Air-Pollution-PM2.5-Across-the-Contiguous-U.S/blob/main/README.md)
+[Predicting Ambient Air Pollution Across the U.S](https://github.com/TartFroYo/Predicting-Ambient-Air-Pollution-PM2.5-Across-the-Contiguous-U.S/blob/main/README.md):
 Air pollution poses a significant risk to public health, particularly for individuals with pre-existing conditions. 
 This project aimed to predict annual average PM2.5 concentrations across the contiguous U.S. using machine learning models. 
 We explored various predictive techniques, including Linear Regression, K-Nearest Neighbors, Extreme Gradient Boosting (XGBoost), and Random Forest, to assess which model best captured the underlying patterns in air pollution data. 
