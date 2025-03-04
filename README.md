@@ -9,6 +9,17 @@ It features projects I've worked on, technical concepts I’ve studied, and cert
 </p>
 
 ## Projects
+<!-- Micro Project
+✅ Smaller in scope – Focuses on a specific task or a single aspect of a larger problem.
+✅ Shorter time commitment – Typically takes a few hours to a couple of days to complete.
+✅ Simpler implementation – Involves basic data analysis, visualization, or applying a single model.
+✅ Limited dataset & techniques – Works with small, clean datasets and minimal preprocessing.
+
+Project
+✅ Larger in scope – Addresses a broader question or business problem with multiple steps.
+✅ Longer time commitment – Takes days to weeks and often involves iterative improvements.
+✅ More complex implementation – Requires a full pipeline (data collection, cleaning, modeling, evaluation).
+✅ Diverse dataset & techniques – Works with large or messy data, using multiple ML models or statistical methods. -->
 ### Predictive Modeling
 
 **Regression**
