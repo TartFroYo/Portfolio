@@ -23,10 +23,17 @@ Describe the gene pipeline -->
 
 **Regression**
 
-[Predicting Air Pollution Hotspots Using Machine Learning](link) :
+<!-- [Predicting Air Pollution Hotspots Using Machine Learning](link) :
 This project is a reimagined version of a previous academic project where me and my partner originally developed 4 ML models in R to [predict air pollution levels across the U.S](https://github.com/TartFroYo/Predicting-Ambient-Air-Pollution-PM2.5-Across-the-Contiguous-U.S/blob/main/README.md). 
 The initial project focused on finding the most accurate prediction model out of four of our choosing based on RMSE and interpret it. In this updated version, I have rebuilt the project in Python, leveraging new datasets and machine learning techniques to improve predictive accuracy and real-world applicability. 
-The goal is to create a model that can predict high-risk pollution zones, helping policymakers and urban planners make informed decisions about air quality management.
+The goal is to create a model that can predict high-risk pollution zones, helping policymakers and urban planners make informed decisions about air quality management. -->
+
+[Predicting Ambient Air Pollution Across the U.S](https://github.com/TartFroYo/Predicting-Ambient-Air-Pollution-PM2.5-Across-the-Contiguous-U.S/blob/main/README.md)
+Air pollution poses a significant risk to public health, particularly for individuals with pre-existing conditions. 
+This project aimed to predict annual average PM2.5 concentrations across the contiguous U.S. using machine learning models. 
+We explored various predictive techniques, including Linear Regression, K-Nearest Neighbors, Extreme Gradient Boosting (XGBoost), and Random Forest, to assess which model best captured the underlying patterns in air pollution data. 
+Feature selection was conducted using the Random Forest algorithm to identify the most influential predictors, such as CMAQ, latitude, and aerosol optical depth (AOD). 
+After rigorous evaluation, XGBoost emerged as the best-performing model with an RMSE of 1.38 on the test dataset. This project highlights the importance of model selection and feature engineering in environmental data science while underscoring the challenges of overfitting and real-world applicability.
 
 **Classification**
 
@@ -39,9 +46,11 @@ Random forest emerged as the most effective model, achieving approximately 95% p
 This project demonstrates the impact of machine learning in healthcare analytics and the importance of carefully selecting and evaluating models for medical diagnosis.
 
 [Predicting Hazardous Near-Earth Objects ](https://github.com/TartFroYo/Predicting-Hazardous-Near-Earth-Objects/tree/main):
-need to add description in this repo
-
-This project analyzes data on near-Earth objects (NEOs) to predict which may pose a potential threat. Using Python, we performed exploratory data analysis (EDA) to identify key trends and features, then applied machine learning models to classify NEOs based on their hazard potential. Visualizations and statistical insights helped refine predictions and improve model accuracy.
+Near-Earth Objects (NEOs) pose a potential threat to our planet, making their early detection critical for risk assessment and mitigation. 
+In this project, we analyzed a NASA dataset containing over 338,000 observations of asteroids to predict whether an NEO is hazardous. 
+We conducted exploratory data analysis (EDA) to identify key features influencing an asteroid’s risk level, including size, velocity, and brightness. 
+Using machine learning models such as k-Nearest Neighbors, Naïve Bayes, Decision Trees, and Random Forest, we evaluated classification performance, ultimately achieving 91% accuracy with Random Forest. 
+This project highlights the power of data science in space safety, contributing to the ongoing efforts to monitor and respond to potential asteroid threats.
 
 **Time Series Forecasting**
 
