@@ -1,1 +1,1 @@
-This folder contains certificates I've completed online.
+This folder contains the certificates I've completed online.
