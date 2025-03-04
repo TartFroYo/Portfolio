@@ -9,16 +9,6 @@ It features projects I've worked on, technical concepts I’ve studied, and cert
 </p>
 
 ## Projects
-<!--sort by types of projects
-End-to-End Projects: Demonstrate the full pipeline from data collection to model deployment.
-Data Cleaning & Exploration: Showcases how you handle messy data.
-Machine Learning Models: Supervised/unsupervised learning, feature engineering, and model evaluation.
-Data Visualization & Storytelling: Effective visualizations to communicate findings.
-Real-World Applications: Business-oriented solutions or personal interest topics. 
-
-Recreate the air pollution one
-Describe the gene pipeline -->
-
 ### Predictive Modeling
 
 **Regression**
@@ -103,7 +93,7 @@ This experience strengthened my skills in ETL processes, data engineering princi
 
 **Processing Large Datasets (e.g., using Spark, Dask, or distributed computing)**
 
-### 7. A/B Testing & Experimentation
+### A/B Testing & Experimentation
 
 **Marketing Campaign Analysis (e.g., testing different ad creatives)**
 
