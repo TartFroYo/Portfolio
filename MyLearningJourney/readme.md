@@ -1,4 +1,5 @@
 ## My Learning Journey
+The directory is
 <!-- 1. Foundation-->
 + Basic Statistics & Probability:
   - Descriptive statistics (mean, median, mode, variance, standard deviation),
