@@ -30,28 +30,28 @@ The initial project focused on finding the most accurate prediction model out of
 The goal is to create a model that can predict high-risk pollution zones, helping policymakers and urban planners make informed decisions about air quality management. -->
 
 [Predicting Ambient Air Pollution Across the U.S](https://github.com/TartFroYo/Predicting-Ambient-Air-Pollution-PM2.5-Across-the-Contiguous-U.S/blob/main/README.md) :
-Air pollution poses a significant risk to public health, particularly for individuals with pre-existing conditions. 
-This project aimed to predict annual average PM2.5 concentrations across the contiguous U.S. using machine learning models. 
-We explored various predictive techniques, including Linear Regression, K-Nearest Neighbors, Extreme Gradient Boosting (XGBoost), and Random Forest, to assess which model best captured the underlying patterns in air pollution data. 
-Feature selection was conducted using the Random Forest algorithm to identify the most influential predictors, such as CMAQ, latitude, and aerosol optical depth (AOD). 
-After rigorous evaluation, XGBoost emerged as the best-performing model with an RMSE of 1.38 on the test dataset. This project highlights the importance of model selection and feature engineering in environmental data science while underscoring the challenges of overfitting and real-world applicability.
+Air pollution poses a serious health risk, especially for vulnerable populations. 
+This project used machine learning models, including XGBoost and Random Forest, to predict annual PM2.5 concentrations across the U.S., with XGBoost achieving the best performance (RMSE: 1.38).applicability.
+Feature selection identified key predictors, such as CMAQ, latitude, and aerosol optical depth, that had the most significant impact on PM2.5 concentration predictions.
 
 **Classification**
 
 [Predicting Alzheimer's Disease in Patients](https://github.com/kristenlowe/predicting-alzheimers-diagnosis) :
-This project applies machine learning techniques to predict Alzheimer's disease using the Alzheimer's Disease Dataset from Kaggle. 
+This project applies machine learning to predict Alzheimer's disease using the Alzheimer's Disease Dataset from Kaggle. 
+After exploratory data analysis and feature engineering, various models, including logistic regression, KNN, and tree-based methods, were evaluated for accuracy, sensitivity, and specificity. 
+Random forest achieved the highest accuracy at 95%, highlighting the role of machine learning in healthcare analytics.
+
+<!-- This project applies machine learning techniques to predict Alzheimer's disease using the Alzheimer's Disease Dataset from Kaggle. 
 The analysis begins with exploratory data analysis, including feature engineering, one-hot encoding, and visualizing trends in the data. 
 Several models are implemented, including K-Nearest Neighbors (KNN), logistic regression, lasso and ridge regression, stepwise selection, and tree-based models such as classification trees, random forests, bagging, and boosting. 
 Model performance was assessed not only based on overall accuracy but also by evaluating sensitivity and specificity to ensure a balanced assessment of false positives and false negatives. 
 Random forest emerged as the most effective model, achieving approximately 95% prediction accuracy. 
-This project demonstrates the impact of machine learning in healthcare analytics and the importance of carefully selecting and evaluating models for medical diagnosis.
+This project demonstrates the impact of machine learning in healthcare analytics and the importance of carefully selecting and evaluating models for medical diagnosis. -->
 
 [Predicting Hazardous Near-Earth Objects ](https://github.com/TartFroYo/Predicting-Hazardous-Near-Earth-Objects/tree/main):
-Near-Earth Objects (NEOs) pose a potential threat to our planet, making their early detection critical for risk assessment and mitigation. 
-In this project, we analyzed a NASA dataset containing over 338,000 observations of asteroids to predict whether an NEO is hazardous. 
-We conducted exploratory data analysis (EDA) to identify key features influencing an asteroid’s risk level, including size, velocity, and brightness. 
-Using machine learning models such as k-Nearest Neighbors, Naïve Bayes, Decision Trees, and Random Forest, we evaluated classification performance, ultimately achieving 91% accuracy with Random Forest. 
-This project highlights the power of data science in space safety, contributing to the ongoing efforts to monitor and respond to potential asteroid threats.
+This project analyzed a NASA dataset of 338,000+ asteroids to predict whether a Near-Earth Object (NEO) is hazardous. 
+After exploratory data analysis on key features like size, velocity, and brightness, we implemented k-Nearest Neighbors, Naïve Bayes, Decision Trees, and Random Forest, achieving 91% accuracy with Random Forest. 
+This work demonstrates the role of machine learning in enhancing asteroid risk assessment and space safety.
 
 **Time Series Forecasting**
 
