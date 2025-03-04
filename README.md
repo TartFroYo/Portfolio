@@ -140,7 +140,7 @@ Project Euler – Algorithmic and mathematical problems solvable in R.-->
 ## My Learning Journey
 <!-- 1. Foundation-->
 + Basic Statistics & Probability:
-- - Descriptive statistics (mean, median, mode, variance, standard deviation),
+  - Descriptive statistics (mean, median, mode, variance, standard deviation),
   - Probability distributions (normal, binomial, Poisson),
   - Central Limit Theorem, Hypothesis testing & p-values
 
