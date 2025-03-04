@@ -96,8 +96,9 @@ This work demonstrates the role of machine learning in enhancing asteroid risk a
 **Data Pipelines & ETL (e.g., automating data collection, cleaning, and storage)**
 
 [Data Pipeline for Processing Raw Gene Data](https://github.com/TartFroYo/Portfolio/blob/main/Data%20Pipeline%20for%20Processing%20Raw%20Gene%20Data) :
-As part of a research initiative, I designed and implemented a data pipeline to process raw gene sequence data, transforming it into a structured format attached with the necessary info suitable for analysis. This involved data ingestion, cleaning, transformation, and storage to facilitate downstream gene expression analysis. 
-The pipeline was built using [R], and it automated the extraction and standardization of large genomic datasets. Despite not having access to the code, I can discuss the design choices, challenges, and impact of the project.
+As part of a research initiative, my group designed and implemented a data pipeline to process raw gene sequence data, transforming it into a structured format attached with the necessary info suitable for analysis. 
+This involved data collection, cleaning, transformation, and storage to facilitate downstream gene expression analysis. 
+The pipeline was built using R in R-Studio, and it automated the extraction and standardization of large genomic datasets. Despite not having access to the code, I can discuss the design choices, challenges, and impact of the project.
 This experience strengthened my skills in ETL processes, data engineering principles, and optimizing workflows for large-scale biological data.
 
 **Web Scraping (e.g., scraping job listings or real estate data)**
