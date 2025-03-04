@@ -126,13 +126,12 @@ This experience strengthened my skills in ETL processes, data engineering princi
 
 ## Micro Projects
 
-### Challenges
+<!-- ### Challenges
 <p> Repo of all the code challenges I solved in their respective programming languages: 
   &nbsp;&nbsp;&nbsp;&nbsp; <a href="LINK">SQL</a>
   &nbsp;&nbsp;&nbsp;&nbsp; <a href="LINK">Python</a> 
-  &nbsp;&nbsp;&nbsp;&nbsp; <a href="LINK">R</a> </p>
-  DNE
-
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="LINK">R</a> </p>                  work in progess-->
+  
 <!-- Yes! Here are some great platforms to practice and improve your R coding skills:
 General Coding & Algorithm Practice
 HackerRank – Offers R challenges, especially in statistics and data science.
