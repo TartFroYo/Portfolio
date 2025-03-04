@@ -145,7 +145,7 @@ R-exercises – Tons of exercises categorized by topic (e.g., data wrangling, vi
 Coursera – Offers R courses from Johns Hopkins, Duke, and others.
 Machine Learning & Advanced Topics
 The Riddler (FiveThirtyEight) – Not R-specific but great math and probability problems you can solve using R.
-Project Euler – Algorithmic and mathematical problems solvable in R.-->
+Project Euler – Algorithmic and mathematical problems solvable in R. -->
 
 ## My Learning Journey
 <!-- 1. Foundation-->
