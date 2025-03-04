@@ -246,3 +246,12 @@ Optimization & Business Analytics.
 Relevant certificates (Google Data Analytics, AWS, IBM, etc.).
 Advanced courses completed (ML, deep learning, analytics). -->
 
+Excel
+Azure
+Snowflake
+AWS
+tableau
+power ib
+data bricks
+cfa
+bi tools
