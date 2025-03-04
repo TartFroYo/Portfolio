@@ -21,14 +21,14 @@ Describe the gene pipeline -->
 
 ### Predictive Modeling
 
-+ **Regression**
+**Regression**
 
 [Predicting Air Pollution Hotspots Using Machine Learning](link) :
 This project is a reimagined version of a previous academic project where me and my partner originally developed 4 ML models in R to [predict air pollution levels across the U.S](https://github.com/TartFroYo/Predicting-Ambient-Air-Pollution-PM2.5-Across-the-Contiguous-U.S/blob/main/README.md). 
 The initial project focused on finding the most accurate prediction model out of four of our choosing based on RMSE and interpret it. In this updated version, I have rebuilt the project in Python, leveraging new datasets and machine learning techniques to improve predictive accuracy and real-world applicability. 
 The goal is to create a model that can predict high-risk pollution zones, helping policymakers and urban planners make informed decisions about air quality management.
 
-+ **Classification**
+**Classification**
 
 [Predicting Alzheimer's Disease in Patients](https://github.com/kristenlowe/predicting-alzheimers-diagnosis) :
 This project applies machine learning techniques to predict Alzheimer's disease using the Alzheimer's Disease Dataset from Kaggle. 
@@ -43,7 +43,7 @@ need to add description in this repo
 
 This project analyzes data on near-Earth objects (NEOs) to predict which may pose a potential threat. Using Python, we performed exploratory data analysis (EDA) to identify key trends and features, then applied machine learning models to classify NEOs based on their hazard potential. Visualizations and statistical insights helped refine predictions and improve model accuracy.
 
-+ **Time Series Forecasting**
+**Time Series Forecasting**
 
 ### Natural Language Processing
 
