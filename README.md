@@ -215,7 +215,7 @@ Specialized Topics (Optional Based on Interest)
 - Finance & Risk Analytics – Portfolio Optimization, Credit Risk Modeling, Algorithmic Trading
 -  Healthcare Analytics – Epidemiology, Patient Outcome Predictions
 -  Marketing Analytics – Customer Segmentation, Personalization
--  Cybersecurity & Fraud Detection – Anomaly Detection, Behavioral Analysis -->
+-  Cybersecurity & Fraud Detection – Anomaly Detection, Behavioral Analysis 
 
 ## Technical Skills & Tools
 <!--**Programming & Scripting** 🟢 Python | SQL | R
