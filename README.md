@@ -58,7 +58,7 @@ This project analyzed a NASA dataset of 338,000+ asteroids to predict whether a 
 After exploratory data analysis on key features like size, velocity, and brightness, we implemented k-Nearest Neighbors, Naïve Bayes, Decision Trees, and Random Forest, achieving 91% accuracy with Random Forest. 
 This work demonstrates the role of machine learning in enhancing asteroid risk assessment and space safety.
 
-**Time Series Forecasting**
+<!--**Time Series Forecasting**
 
 ### Natural Language Processing
 
@@ -94,7 +94,7 @@ This work demonstrates the role of machine learning in enhancing asteroid risk a
 
 **Fault Detection in Manufacturing (e.g., detecting defective products using sensor data)**
 
-**Network Intrusion Detection (e.g., identifying unusual traffic in network logs)**
+**Network Intrusion Detection (e.g., identifying unusual traffic in network logs)** -->
 
 ### Data Engineering & Big Data
 
@@ -106,7 +106,7 @@ This involved data collection, cleaning, transformation, and storage to facilita
 The pipeline was built using R in R-Studio, and it automated the extraction and standardization of large genomic datasets. Despite not having access to the code, I can discuss the design choices, challenges, and impact of the project.
 This experience strengthened my skills in ETL processes, data engineering principles, and optimizing workflows for large-scale biological data.
 
-**Web Scraping (e.g., scraping job listings or real estate data)**
+<!-- **Web Scraping (e.g., scraping job listings or real estate data)**
 
 **Processing Large Datasets (e.g., using Spark, Dask, or distributed computing)**
 
@@ -131,14 +131,13 @@ This experience strengthened my skills in ETL processes, data engineering princi
 **Churn Prediction (e.g., identifying customers likely to stop using a service)**
 
 ## Micro Projects
-
-<!-- ### Challenges
+### Challenges
 <p> Repo of all the code challenges I solved in their respective programming languages: 
   &nbsp;&nbsp;&nbsp;&nbsp; <a href="LINK">SQL</a>
   &nbsp;&nbsp;&nbsp;&nbsp; <a href="LINK">Python</a> 
-  &nbsp;&nbsp;&nbsp;&nbsp; <a href="LINK">R</a> </p>                  work in progess-->
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="LINK">R</a> </p>                  work in progess
   
-<!-- Yes! Here are some great platforms to practice and improve your R coding skills:
+ Yes! Here are some great platforms to practice and improve your R coding skills:
 General Coding & Algorithm Practice
 HackerRank – Offers R challenges, especially in statistics and data science.
 LeetCode – Primarily for Python, SQL, and general algorithms, but some problems can be solved in R.
@@ -154,7 +153,7 @@ The Riddler (FiveThirtyEight) – Not R-specific but great math and probability 
 Project Euler – Algorithmic and mathematical problems solvable in R. -->
 
 ## My Learning Journey
-<!-- 1. Foundation-->
+<!-- <!-- 1. Foundation-->
 + Basic Statistics & Probability:
   - Descriptive statistics (mean, median, mode, variance, standard deviation),
   - Probability distributions (normal, binomial, Poisson),
@@ -221,7 +220,7 @@ Specialized Topics (Optional Based on Interest)
 - Finance & Risk Analytics – Portfolio Optimization, Credit Risk Modeling, Algorithmic Trading
 -  Healthcare Analytics – Epidemiology, Patient Outcome Predictions
 -  Marketing Analytics – Customer Segmentation, Personalization
--  Cybersecurity & Fraud Detection – Anomaly Detection, Behavioral Analysis 
+-  Cybersecurity & Fraud Detection – Anomaly Detection, Behavioral Analysis -->
 
 ## Technical Skills & Tools
 <!--**Programming & Scripting** 🟢 Python | SQL | R
@@ -241,7 +240,7 @@ Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), R (Dplyr, Tidyr, Care
 **Tools:**
 MySQL, SQL Server, NoSQL, GCP, Tableau, Jupyter Notebook, Git & GitHub, Excel
 
-## Certifications
+<!-- ## Certifications
 <!--Statistical Methods & Probability.
 Data Wrangling & Cleaning Techniques.
 Feature Engineering & Model Tuning.
@@ -255,7 +254,7 @@ Advanced courses completed (ML, deep learning, analytics). -->
 Excel
 Azure
 Snowflake
-AWS
+AWS -->
 tableau
 power ib
 data bricks
