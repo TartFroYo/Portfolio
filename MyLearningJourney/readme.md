@@ -1,5 +1,5 @@
 ## My Learning Journey
-The directory is
+Concepts I plan to revise or learn:
 <!-- 1. Foundation-->
 + Basic Statistics & Probability:
   - Descriptive statistics (mean, median, mode, variance, standard deviation),
