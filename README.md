@@ -8,6 +8,10 @@ It features projects I've worked on, technical concepts I’ve studied, and cert
   <!-- &nbsp;&nbsp;&nbsp;&nbsp;<b>Website:</b> <a href="LINK">Aileen Li</a>                       work on professional website someday -->
 </p>
 
+## SQL Portfolio 
+This [repository](https://github.com/TartFroYo/Cs327e-Databases) showcases my work from CS 327E: Elements of Databases, a course focused on modern database management and data processing techniques. 
+The coursework covered SQL querying, database design, and various database technologies, providing hands-on experience in both operational and analytical database systems.
+
 ## Projects
 <!-- Micro Project
 ✅ Smaller in scope – Focuses on a specific task or a single aspect of a larger problem.
@@ -20,6 +24,7 @@ Project
 ✅ Longer time commitment – Takes days to weeks and often involves iterative improvements.
 ✅ More complex implementation – Requires a full pipeline (data collection, cleaning, modeling, evaluation).
 ✅ Diverse dataset & techniques – Works with large or messy data, using multiple ML models or statistical methods. -->
+
 ### Predictive Modeling
 
 **Regression**
