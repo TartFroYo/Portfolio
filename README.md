@@ -154,7 +154,7 @@ Project Euler – Algorithmic and mathematical problems solvable in R. -->
 
 <!--  ## My Learning Journey
 
-<!-- 1. Foundation-->
+1. Foundation
 + Basic Statistics & Probability:
   - Descriptive statistics (mean, median, mode, variance, standard deviation),
   - Probability distributions (normal, binomial, Poisson),
@@ -173,7 +173,7 @@ Project Euler – Algorithmic and mathematical problems solvable in R. -->
   - Time Series Analysis Basics,
   - Intro to Forecasting
 
-<!-- 2. Intermediate Topics-->
+2. Intermediate Topics
 + Machine Learning & Predictive Modeling:
   - Regression (Linear & Logistic),
   - Decision Trees & Random Forests,
@@ -199,7 +199,7 @@ Project Euler – Algorithmic and mathematical problems solvable in R. -->
   - Risk Analysis & Fraud Detection,
   - Text Analytics & Sentiment Analysis (NLP Basics)
 
-<!--3. Advanced Topics -->
+3. Advanced Topics
 + Deep Learning & AI for Business:
   - Neural Networks (TensorFlow, PyTorch),
   - Natural Language Processing (Transformers, BERT),
