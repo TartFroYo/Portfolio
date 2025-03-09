@@ -240,7 +240,7 @@ Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), R (Dplyr, Tidyr, Care
 **Tools:**
 MySQL, SQL Server, NoSQL, GCP, Tableau, Jupyter Notebook, Git & GitHub, Excel
 
-<!-- ## Certifications
+## Certifications
 <!--Statistical Methods & Probability.
 Data Wrangling & Cleaning Techniques.
 Feature Engineering & Model Tuning.
@@ -251,12 +251,14 @@ Optimization & Business Analytics.
 Relevant certificates (Google Data Analytics, AWS, IBM, etc.).
 Advanced courses completed (ML, deep learning, analytics). -->
 
-Excel
+<!-- Excel
 Azure
 Snowflake
-AWS -->
+AWS
 tableau
 power ib
 data bricks
 cfa
-bi tools
+bi tools -->
+
+Elements of Computing / Computer Science Minor from the [University of Texas at Austin](https://utdirect.utexas.edu/apps/degree/degrees/nlogon/?s_last_name_read=&s_last_isn_read=&s_first_name_read=&s_first_isn_read=&s_first_time_sw=X&s_start_name=Li+Aileen&s_start_page=Submit)
