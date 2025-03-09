@@ -152,8 +152,9 @@ Machine Learning & Advanced Topics
 The Riddler (FiveThirtyEight) – Not R-specific but great math and probability problems you can solve using R.
 Project Euler – Algorithmic and mathematical problems solvable in R. -->
 
-## My Learning Journey
-<!-- <!-- 1. Foundation-->
+<!--  ## My Learning Journey
+
+<!-- 1. Foundation-->
 + Basic Statistics & Probability:
   - Descriptive statistics (mean, median, mode, variance, standard deviation),
   - Probability distributions (normal, binomial, Poisson),
