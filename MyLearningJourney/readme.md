@@ -1,5 +1,5 @@
 ## My Learning Journey
-Concepts I plan to revise or learn:
+Concepts I plan to revise or learn and the sources I used:
 <!-- 1. Foundation-->
 + Basic Statistics & Probability:
   - Descriptive statistics (mean, median, mode, variance, standard deviation),
