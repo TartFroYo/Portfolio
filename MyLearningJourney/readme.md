@@ -2,8 +2,8 @@
 Concepts I plan to revise or learn and the sources I used:
 <!-- 1. Foundation-->
 + Basic Statistics & Probability:
-  - Descriptive statistics (mean, median, mode, variance, standard deviation),
-  - Probability distributions (normal, binomial, Poisson),
+  - Descriptive statistics,
+  - Probability distributions,
   - Central Limit Theorem, Hypothesis testing & p-values
 
 + Data Analysis & Visualization:
