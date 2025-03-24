@@ -63,8 +63,8 @@ Concepts I plan to revise or learn and the sources I used:
   - Advanced Forecasting Models (ARIMA, Prophet, LSTMs),
   - Prescriptive Analytics & Optimization
 
-Specialized Topics (Optional Based on Interest)
+Specialized Topics
 - Finance & Risk Analytics – Portfolio Optimization, Credit Risk Modeling, Algorithmic Trading
 -  Healthcare Analytics – Epidemiology, Patient Outcome Predictions
 -  Marketing Analytics – Customer Segmentation, Personalization
--  Cybersecurity & Fraud Detection – Anomaly Detection, Behavioral Analysis -->
+-  Cybersecurity & Fraud Detection – Anomaly Detection, Behavioral Analysis
