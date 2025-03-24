@@ -239,7 +239,7 @@ Machine Learning, Predictive Analytics, Time Series Analysis, Statistical Modeli
 Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), R (Dplyr, Tidyr, Caret, ggplot2), SQL
 
 **Tools:**
-MySQL, SQL Server, NoSQL, GCP, Tableau, Jupyter Notebook, Git & GitHub, Excel
+MySQL, SQL Server, NoSQL, GCP, Tableau, Jupyter Notebook, Git & GitHub, Excel, Bash, Linux/Unix
 
 ## Certifications
 <!--Statistical Methods & Probability.
